@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-mv Configure configure
-./configure
+./Configure
 compiledb -n make
